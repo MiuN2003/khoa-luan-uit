@@ -1,0 +1,21 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "6a14e1a69d220092",
+  "_format_columns": [
+    "context",
+    "question",
+    "answer_text",
+    "answer_start_idx",
+    "label",
+    "answer_word_start_idx",
+    "answer_word_end_idx"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

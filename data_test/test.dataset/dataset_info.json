@@ -1,0 +1,62 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 1797,
+  "description": "",
+  "download_checksums": {
+    "D:/IELTS-1984-Project/khoa-luan-uit/data_test/test.json": {
+      "num_bytes": 1858,
+      "checksum": null
+    }
+  },
+  "download_size": 1858,
+  "features": {
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer_text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer_start_idx": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "answer_word_start_idx": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "answer_word_end_idx": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 3655,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 1797,
+      "num_examples": 1,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

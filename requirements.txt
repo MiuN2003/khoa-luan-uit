@@ -1,0 +1,12 @@
+pyarrow 
+datasets
+torch
+scipy
+scikit-learn
+transformers
+datasets
+nltk
+tensorboard
+tensorboardX 
+accelerate
+rank_bm25
